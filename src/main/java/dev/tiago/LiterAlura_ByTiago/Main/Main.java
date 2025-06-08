@@ -11,7 +11,7 @@ public class Main {
 
         while (option != 0){
             String menu = """
-                    *** Escolhe um número para sua opção ***
+                    *** Escolha um número para sua opção ***
                     
                     1 - buscar livro pelo título
                     2 - listar livros registrados
